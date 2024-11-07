@@ -1,0 +1,53 @@
+
+/* header */
+
+
+.hello{
+    background: linear-gradient(100deg, #6a00ff, #ae00ff); /* Adjust colors to match */
+    height: 100vh; /* Full viewport height */
+   
+}
+.navbar .nav-link {
+    color: white; /* Choose any color you like */
+  }
+  .butt{
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    background-color: transparent;
+    transition: background-color 0.225s,;
+    color: black
+  }
+  .butt:hover {
+    cursor: pointer;
+    
+    color: black !important;
+    background-color: white;
+}
+    .gradient{
+       
+        background-color: rosybrown;
+      width: 200px;
+      height: 200px;
+        
+        
+    }
+    .container-fluid1{
+        background: linear-gradient(100deg, #6a00ff, #ae00ff);
+    }
+ 
+    .div-footer{
+        display: flex;
+
+
+    }
+
+.button-foot{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    
+}
+.img-footer{
+    height: 20px;
+}
